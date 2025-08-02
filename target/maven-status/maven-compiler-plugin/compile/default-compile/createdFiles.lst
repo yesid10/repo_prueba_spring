@@ -1,0 +1,8 @@
+com\api\hotel\model\Huesped.class
+com\api\hotel\repository\HuespedRepository.class
+com\api\hotel\HotelApplication.class
+com\api\hotel\repository\ReservaRepository.class
+com\api\hotel\service\HuespedService.class
+com\api\hotel\model\Reserva.class
+com\api\hotel\service\ReservaService.class
+com\api\hotel\controller\HuespedController.class
